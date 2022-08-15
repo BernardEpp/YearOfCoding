@@ -1,0 +1,15 @@
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\bin\Debug\net6.0\ConsoleUI.exe
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\bin\Debug\net6.0\ConsoleUI.deps.json
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\bin\Debug\net6.0\ConsoleUI.runtimeconfig.json
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\bin\Debug\net6.0\ConsoleUI.dll
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\bin\Debug\net6.0\ConsoleUI.pdb
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.dll
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\refint\ConsoleUI.dll
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.pdb
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ConsoleUI.genruntimeconfig.cache
+E:\Sandbox\YearOfCoding\Week2\FirstApplication\ConsoleUI\obj\Debug\net6.0\ref\ConsoleUI.dll
